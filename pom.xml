@@ -8,7 +8,6 @@
   <artifactId>My-Jenkins-Assignment</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-  <version>0.0.1-SNAPSHOT</version>
   
   <name>My-Jenkins-Assignment Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
